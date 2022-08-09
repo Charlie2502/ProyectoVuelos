@@ -202,3 +202,9 @@ th{
     margin-left: 650px;
     width: auto;
 }
+
+#div_transaccion{
+    display: inline-block;
+    position: absolute;
+    width: 700px;
+}
